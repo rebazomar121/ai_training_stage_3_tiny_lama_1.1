@@ -1,0 +1,19 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Generated data
+personal_data.jsonl
+formatted_personal_data.txt
+
+# Training outputs and models
+results/
+logs/
+personal_model/
+personal_model_gguf/
+personal_model_lora/
+personal_model_distilgpt2/ 
